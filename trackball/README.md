@@ -6,6 +6,7 @@ https://github.com/tmk/tmk_keyboard/tree/master/converter/adb_usb
 cd /home/dbarchetta/Documenti/tmk_keyboard/converter/adb_usb
 
 make -f Makefile clean
+
 make -f Makefile.rev1
 
 reset tra pin rst e gnd, forse 2 volte
